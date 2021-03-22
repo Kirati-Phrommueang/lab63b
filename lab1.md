@@ -10,14 +10,14 @@
 * 4.สายUSB
 
 ## ศึกษาข้อมูลเบื้องต้น
-* 1.ศึกษาโค้ดของโปรแกรมที่ต้องการรันบนไมโครคอนโทรเลอร์(https://github.com/choompol-boonmee/lab63b/blob/master/examples/01_Serial-Monitor/src/main.cpp)
-* 2.ศึกษาข้อมูลของไมโครคอนโทรเลอร์ที่ใช้(https://docs.platformio.org/en/latest/boards/espressif8266/esp01_1m.html)
+* 1.ศึกษาข้อมูลของไมโครคอนโทรเลอร์ที่ใช้(https://docs.platformio.org/en/latest/boards/espressif8266/esp01_1m.html)
+* 2.ศึกษาโค้ดของโปรแกรมที่ต้องการรันบนไมโครคอนโทรเลอร์(https://github.com/choompol-boonmee/lab63b/blob/master/examples/01_Serial-Monitor/src/main.cpp)
 
 ## วิธีการทำการทดลอง
 * 1.เชื่อมต่อสายUSBด้านหนึ่งเข้ากับคอมพิวเตอร์และอีกด้านเข้ากับซีเรียล
 * 2.ต่อไมโครคอนโทรเลอร์เข้ากับซีเรียล
 * 3.เรียกโฟรเดอร์ที่เราบันทึกโปรแกรมเก็บไว้ โดยในการทดลองนี้โปรแกรมของเราอยู่ในโฟรเดอร์pattani โดยพิมพ์'cd pattani'ลงในCommand Prompt
-* 4.เรียกโปรแกรมที่เราต้องการ โดยในการทดลองนี้เราจะใช้โปรแกรมที่1ในโฟรเดอร์pattani โดยพิมพ์'cd 01_Serial-Monitor'ลงในCommand Prompt
+* 4.เรียกโปรแกรมที่เราต้องการ โดยในการทดลองนี้เราจะใช้โปรแกรมที่1ในโฟรเดอร์pattani โดยพิมพ์'cd 02_S-Monitor'ลงในCommand Prompt
 * 5.รันโปรแกรมลงบนไมโครคอนโทรเลอร์ โดยพิมพ์'pio run -t uplond'ลงในCommand Prompt
 * 6.ขณะรันโปรแกรมให้กดปุ่มสีดำก่อนแล้วกดปุ่มสีแดงบนซีเรียล
 * 7.เมื่อไมโครคอนโทรเลอร์รันโปรแกรมสำเร็จ จะได้ผลดังรูป

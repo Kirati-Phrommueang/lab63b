@@ -44,9 +44,9 @@
 <img width="804" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 01 57" src="https://user-images.githubusercontent.com/80879658/112156444-d5dbfd00-8c18-11eb-962d-ae808ea807db.png">
 <img width="804" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 03 01" src="https://user-images.githubusercontent.com/80879658/112156470-da081a80-8c18-11eb-8991-95c16d4238ca.png">
 <img width="806" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 04 34" src="https://user-images.githubusercontent.com/80879658/112156481-dbd1de00-8c18-11eb-9e02-3f73d0cf9a16.png">
+<img width="803" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 05 08" src="https://user-images.githubusercontent.com/80879658/112156534-e7bda000-8c18-11eb-907b-9b6a953e570a.png">
 
 * ผลการทำงานของโปรแกรมที่รันสำเร็จ ได้ผลดังนี้
-<img width="803" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 05 08" src="https://user-images.githubusercontent.com/80879658/112156534-e7bda000-8c18-11eb-907b-9b6a953e570a.png">
 <img width="1188" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 06 15" src="https://user-images.githubusercontent.com/80879658/112156553-ed1aea80-8c18-11eb-91ec-24874d44befa.png">
 <img width="1194" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 07 00" src="https://user-images.githubusercontent.com/80879658/112156562-ef7d4480-8c18-11eb-8756-c3418687ff92.png">
 

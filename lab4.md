@@ -50,13 +50,12 @@
 
 * ผลการทำงานของโปรแกรมที่รันสำเร็จ ได้ผลดังนี้
 <img width="1164" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 16 42" src="https://user-images.githubusercontent.com/80879658/112157801-23a53500-8c1a-11eb-8723-ad9fb5b1fae6.png">
-<img width="1179" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 18 33" src="https://user-images.githubusercontent.com/80879658/112157815-2869e900-8c1a-11eb-9a55-59a5505776c3.png">
 
 * ผลการทดลองนำสายสีขาว(พอร์ต0)มาสัมผัสกับสายสีดำ(พอร์ต0)
-<img width="1183" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 19 28" src="https://user-images.githubusercontent.com/80879658/112157857-328be780-8c1a-11eb-9b03-1749f243ec65.png">
+<img width="1179" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 18 33" src="https://user-images.githubusercontent.com/80879658/112157815-2869e900-8c1a-11eb-9a55-59a5505776c3.png">
 
 * ผลการทดลองนำสายสีขาว(พอร์ต0)มาสัมผัสกับสายสีแดง(พอร์ต1)
-<img width="1187" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 20 21" src="https://user-images.githubusercontent.com/80879658/112157892-3a4b8c00-8c1a-11eb-823a-69ce8864bbd4.png">
+<img width="1183" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 19 28" src="https://user-images.githubusercontent.com/80879658/112157857-328be780-8c1a-11eb-9b03-1749f243ec65.png">
 
 * ผลการทดลองกดปุ่มสีดำของซีเรียล
 <img width="1187" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 20 21" src="https://user-images.githubusercontent.com/80879658/112157922-446d8a80-8c1a-11eb-9606-6904850822ee.png">

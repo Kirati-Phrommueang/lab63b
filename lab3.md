@@ -12,27 +12,48 @@
 * 5.อะแดปเตอร์
 * 6.รีเลย์
 
+
 ## ศึกษาข้อมูลเบื้องต้น
 * 1.ศึกษาข้อมูลของไมโครคอนโทรเลอร์ที่ใช้(https://docs.platformio.org/en/latest/boards/espressif8266/esp01_1m.html)
 * 2.ศึกษาโค้ดของโปรแกรมที่ต้องการรันบนไมโครคอนโทรเลอร์(https://github.com/choompol-boonmee/lab63b/blob/master/examples/03_Output-Port/src/main.cpp)
 
 ## วิธีการทำการทดลอง
 * 1.เชื่อมต่อสายแปลงUSBด้านหนึ่งเข้ากับคอมพิวเตอร์และอีกด้านเข้ากับซีเรียล
+<img width="383" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 20 24 26" src="https://user-images.githubusercontent.com/80879658/112156068-7ed62800-8c18-11eb-8225-a02390ae17cb.png">
+
 * 2.ต่ออะแดปเตอร์เข้ากับซีเรียล
+<img width="376" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 18 58 45" src="https://user-images.githubusercontent.com/80879658/112156288-afb65d00-8c18-11eb-86a3-f65915e7d6b6.png">
+
 * 3.ต่อไมโครคอนโทรเลอร์เข้ากับอะแดปเตอร์
+<img width="378" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 18 59 45" src="https://user-images.githubusercontent.com/80879658/112156331-bd6be280-8c18-11eb-8511-20c178d70236.png">
+
 * 4.เรียกโฟรเดอร์ที่เราบันทึกโปรแกรมเก็บไว้ โดยในการทดลองนี้โปรแกรมของเราอยู่ในโฟรเดอร์pattani โดยใช้คำสั่ง'cd pattani'
 * 5.เรียกโปรแกรมที่เราต้องการ โดยในการทดลองนี้เราจะใช้โปรแกรมที่1ในโฟรเดอร์pattani โดยใช้คำสั่ง'cd 03_Output-Port'
 * 6.รันโปรแกรมลงบนไมโครคอนโทรเลอร์ โดยใช้คำสั่ง'pio run -t uplond'
 * 7.ขณะรันโปรแกรมให้กดปุ่มสีดำก่อนแล้วกดปุ่มสีแดงบนซีเรียล
 * 8.จากนั้นทดสอบโปรแกรมที่รันสำเร็จ โดยใช้คำสั่ง'pio device monitor'
 * 9.นำไมโครคอนโทรเลอร์ที่ลงโปรแกรมสำเร็จต่อเข้ารีเลย์
+<img width="383" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 09 30" src="https://user-images.githubusercontent.com/80879658/112156366-c492f080-8c18-11eb-9365-1ade0f636cac.png">
+
 * 10.นำรีเลย์ต่อเข้ากับสายแปลงUSB
+<img width="375" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 10 23" src="https://user-images.githubusercontent.com/80879658/112156402-c9f03b00-8c18-11eb-9e60-2eab429574f3.png">
 
 
 ## การบันทึกผลการทดลอง
 * จากการทดลองเมื่อไมโครคอนโทรเลอร์รันโปรแกรมสำเร็จ ได้ผลดังนี้
+<img width="804" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 01 57" src="https://user-images.githubusercontent.com/80879658/112156444-d5dbfd00-8c18-11eb-962d-ae808ea807db.png">
+<img width="804" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 03 01" src="https://user-images.githubusercontent.com/80879658/112156470-da081a80-8c18-11eb-8991-95c16d4238ca.png">
+<img width="806" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 04 34" src="https://user-images.githubusercontent.com/80879658/112156481-dbd1de00-8c18-11eb-9e02-3f73d0cf9a16.png">
+
 * ผลการทำงานของโปรแกรมที่รันสำเร็จ ได้ผลดังนี้
+<img width="803" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 05 08" src="https://user-images.githubusercontent.com/80879658/112156534-e7bda000-8c18-11eb-907b-9b6a953e570a.png">
+<img width="1188" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 06 15" src="https://user-images.githubusercontent.com/80879658/112156553-ed1aea80-8c18-11eb-91ec-24874d44befa.png">
+<img width="1194" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 07 00" src="https://user-images.githubusercontent.com/80879658/112156562-ef7d4480-8c18-11eb-8756-c3418687ff92.png">
+
 * ผลการทำงานของรีเลย์
+<img width="375" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 10 23" src="https://user-images.githubusercontent.com/80879658/112156589-f60bbc00-8c18-11eb-9ed1-4f95ee70959b.png">
+<img width="384" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 10 56" src="https://user-images.githubusercontent.com/80879658/112156600-f86e1600-8c18-11eb-883e-36ae65b249a5.png">
+
 
 ## อภิปรายผลการทดลอง
 จากการทดลองแสดงให้เห็นว่าโปรแกรมเอาต์พุตสัญญาณดิจิตอลที่ทำการรันบนไมโครคอนโทรเลอร์สามารถใช้งานได้ โดยผลการทดลองจะเห็นว่า

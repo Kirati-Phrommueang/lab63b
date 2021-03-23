@@ -1,3 +1,4 @@
+<img width="809" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 18 34 28" src="https://user-images.githubusercontent.com/80879658/112151737-22710980-8c14-11eb-9978-c60905ac9d99.png">
 # การทดลองที่1 การเขียนโปรแกรมเพื่อรันบนไมโครคอนโทรเลอร์
 
 ## วัตถุประสงค์
@@ -24,7 +25,12 @@
 
 ## การบันทึกผลการทดลอง
 * เมื่อไมโครคอนโทรเลอร์รันโปรแกรมสำเร็จ ได้ผลดังนี้
-![IMG_0300](https://user-images.githubusercontent.com/80879658/112151644-0cfbdf80-8c14-11eb-8235-c49d8d54bf2f.jpg)
+<img width="809" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 18 34 28" src="https://user-images.githubusercontent.com/80879658/112151759-2a30ae00-8c14-11eb-869d-dea8db16793b.png">
+<img width="796" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 18 35 34" src="https://user-images.githubusercontent.com/80879658/112151769-2d2b9e80-8c14-11eb-8036-ca6efeecdb44.png">
+<img width="805" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 18 38 50" src="https://user-images.githubusercontent.com/80879658/112151790-33217f80-8c14-11eb-95c2-deed2db7b03c.png">
+<img width="803" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 18 39 30" src="https://user-images.githubusercontent.com/80879658/112151817-387eca00-8c14-11eb-9fae-fcedd5461a72.png">
+<img width="803" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 18 41 04" src="https://user-images.githubusercontent.com/80879658/112151844-403e6e80-8c14-11eb-8505-568c7203d570.png">
+
 
 * ผลการทำงานของโปรแกรมที่รันสำเร็จ ได้ผลดังนี้
 

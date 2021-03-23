@@ -29,7 +29,7 @@
 <img width="805" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 18 38 50" src="https://user-images.githubusercontent.com/80879658/112151790-33217f80-8c14-11eb-95c2-deed2db7b03c.png">
 <img width="803" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 18 39 30" src="https://user-images.githubusercontent.com/80879658/112151817-387eca00-8c14-11eb-9fae-fcedd5461a72.png">
 <img width="803" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 18 41 04" src="https://user-images.githubusercontent.com/80879658/112151844-403e6e80-8c14-11eb-8505-568c7203d570.png">
-![IMG_0300](https://user-images.githubusercontent.com/80879658/112152369-ce1a5980-8c14-11eb-9ebc-6387f5cdbace.jpg)
+<img width="801" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 20 19 55 2" src="https://user-images.githubusercontent.com/80879658/112154035-7846b100-8c16-11eb-8e07-5fe6da45752c.png">
 <img width="799" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 18 43 21" src="https://user-images.githubusercontent.com/80879658/112152395-d5416780-8c14-11eb-8a5d-b7cb9809491d.png">
 <img width="802" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 18 44 31" src="https://user-images.githubusercontent.com/80879658/112152412-db374880-8c14-11eb-999c-0d725cbaad9a.png">
 

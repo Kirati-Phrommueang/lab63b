@@ -30,6 +30,11 @@
 
 ## การบันทึกผลการทดลอง
 * เมื่อไมโครคอนโทรเลอร์รันโปรแกรมสำเร็จ ได้ผลดังนี้
+<img width="803" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 31 50" src="https://user-images.githubusercontent.com/80879658/112343448-b961c280-8cf5-11eb-8950-e4179b9adac2.png">
+<img width="804" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 33 08" src="https://user-images.githubusercontent.com/80879658/112343460-bcf54980-8cf5-11eb-822a-edab92bb4ffb.png">
+<img width="806" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 34 04" src="https://user-images.githubusercontent.com/80879658/112343471-bf57a380-8cf5-11eb-92ea-aacda9840161.png">
+<img width="803" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 35 17" src="https://user-images.githubusercontent.com/80879658/112343481-c1216700-8cf5-11eb-866b-21443159afad.png">
+<img width="804" alt="ภาพถ่ายหน้าจอ 2564-03-23 เวลา 19 37 13" src="https://user-images.githubusercontent.com/80879658/112343490-c383c100-8cf5-11eb-9c23-f0f85b2f98aa.png">
 
 * ผลการทำงานของโปรแกรมที่รันสำเร็จ ได้ผลดังนี้
 

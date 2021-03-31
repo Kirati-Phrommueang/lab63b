@@ -46,7 +46,7 @@ void setup()
 	pinMode(0, OUTPUT);
 	Serial.println("\n\n\n");
 }
-
+void loop()
 	if(NWF == 0) {
 		Serial.println("========== OFF ===========");
 		digitalWrite(0, LOW);
@@ -54,5 +54,5 @@ void setup()
 		Serial.println("========== ON ===========");
 		digitalWrite(0, HIGH);
 	}
-	
+	delay(100);
 

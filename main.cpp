@@ -27,18 +27,18 @@ void loop()
 			Serial.print(WiFi.RSSI(i));
 			Serial.println(")");
 			Serial.print(WiFi.channel(i));
-			delay(10);
+			delay(100);
 		}
 	}
 	Serial.println("\n\n");
-	delay(10 * 1000);
+	delay(100 * 1000);
 }
 
 
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
 
-int cnt = n;
+int NWF = n;
 
 void setup()
 {
@@ -47,15 +47,12 @@ void setup()
 	Serial.println("\n\n\n");
 }
 
-void loop()
-{
-	cnt++;
-	if(cnt == 0) {
+	if(NWF == 0) {
 		Serial.println("========== OFF ===========");
-		digitalWrite(0, HIGH);
+		digitalWrite(0, LOW);
 	} else {
 		Serial.println("========== ON ===========");
-		digitalWrite(0, LOW);
+		digitalWrite(0, HIGH);
 	}
-	delay(500);
-}
+	
+

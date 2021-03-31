@@ -31,7 +31,7 @@ void loop()
 		}
 	}
 	Serial.println("\n\n");
-	delay(100 * 1000);
+	delay(10 * 1000);
 }
 
 
